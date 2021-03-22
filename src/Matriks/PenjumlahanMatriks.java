@@ -6,6 +6,7 @@ public class PenjumlahanMatriks {
       {2, 4, 6},
       {5, 8, 9}
     };
+    
       int[][] B = {
       {6, 2, 4},
       {3, 5, 1},
