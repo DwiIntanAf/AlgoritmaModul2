@@ -7,7 +7,7 @@ public class TransposeMatriks {
     int matriks[][] = new int[10][10]; 
     int transpose[][] = new int[10][10];
     Scanner scan = new Scanner(System.in); //perintah untuk mengambil nilai dari keyboard
-    System.out.print("Masukkan jumlah baris matriks: "); //5
+    System.out.print("Masukkan jumlah baris matriks: "); //3
     m = scan.nextInt();
     System.out.print("Masukkan jumlah kolom matriks: "); //4
     n = scan.nextInt();
